@@ -3,7 +3,7 @@ const Banner = () => {
     return (
         <div className="h-screen flex justify-center items-center">
             <div>
-                <h1 className="">this is banner section</h1>
+                <h1 className="text-red-400 font-bold text-4xl">this is banner section</h1>
                 {/* The button to open modal */}
                 <label htmlFor="my-modal-3" className="btn">open modal</label>
 
