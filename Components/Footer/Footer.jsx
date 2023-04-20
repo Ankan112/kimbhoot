@@ -15,7 +15,7 @@ const Footer = () => {
                 </div>
             </div>
             <div>
-                <p>Copyright © 2023 - All right reserved by Kimvout</p>
+                <p>Copyright © 2023 - All right reserved by Kimbhoot</p>
             </div>
         </footer>
     );
